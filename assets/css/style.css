@@ -81,7 +81,7 @@ h1 {
 h2 {
   font-size: 40px;
   line-height: 60px;
-  color: #2e2e2e;
+  color: #ff5ca5;
   font-weight: 600;
   text-transform: capitalize;
   letter-spacing: -1.5px;
@@ -94,7 +94,7 @@ h1, h2 {
 h3 {
   font-size: 18px;
   line-height: 25px;
-  color: #2e2e2e;
+  color: #ff0072;
   font-weight: 600;
   text-transform: uppercase;
   margin-bottom: 30px; }
