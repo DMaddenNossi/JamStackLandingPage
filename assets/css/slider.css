@@ -199,7 +199,7 @@ svg {
 }
 .slide:nth-child(1) .slide__bg {
   left: 0;
-  background-image: url("../img/slider3.jpg");
+  background-image: url("../img/slider1.jpg");
 }
 .slide:nth-child(1) .slide__overlay-path {
   fill: rgb(155, 70, 243);
